@@ -1,0 +1,32 @@
+.header-logo{
+  text-align:center;
+  letter-spacing:20px;
+  font-size:70px;
+  font-family:fantasy;
+  float:center;
+  color:red;
+}
+.header{
+  
+}
+body{
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:fixed;
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHHz9-MrDyvxaM59vIwxTAuwJipUWalJkL5w&usqp=CAU);
+
+
+
+}
+.tree{
+  float:right;
+}
+
+
+li{
+  color:white;
+  background-color:red;
+  padding:20px 20px;
+  list-style:none;
+  float:left;
+}
